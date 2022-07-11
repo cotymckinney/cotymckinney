@@ -1,7 +1,7 @@
 <img width="100%" height="300" align="left" alt="hello-there-stars" src="Assets/images/hi-stars.png">
 
 ### **Hello there! I am Coty McKinney, a full-stack software engineer from Kentucky.**
-> Working on multiple full-stack projects using the MERN, or LAMP stacks.
+> Working on multiple full-stack projects leveraging the MERN and LAMP stacks.
 
 ***
 
